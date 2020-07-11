@@ -1,4 +1,4 @@
-<table>
+<table align="center">
 <tr>
 <th><h1>CV repository of Altuğ CEYLAN AKA AranNomante</h1></th>
 <th>
