@@ -1,4 +1,4 @@
-<table align="center">
+<table style="text-align:center;margin:auto">
 <tr>
 <th><h1>CV repository of Altuğ CEYLAN AKA AranNomante</h1></th>
 <th>
@@ -9,7 +9,7 @@
 <td>
 <a class="" data-hovercard-type="user" data-hovercard-url="/users/jadjoubran/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AranNomante">
           <img class="d-block avatar-user" src="https://avatars1.githubusercontent.com/u/44326591" width="256" height="256" alt="@AranNomante">
-		<br><sub><b>Altuğ Ceylan</b></sub>
+		<br><sub style="text-align:center;margin:auto"><b>Altuğ Ceylan</b></sub>
 </a>
 </td>
 <td>
