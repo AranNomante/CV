@@ -1,5 +1,7 @@
 <h1>CV repository of Altuğ CEYLAN</h1>
-![Altuğ CEYLAN](https://avatars1.githubusercontent.com/u/44326591?s=400&u=bf51115cff84d72f53c1a70777d71d0fc87395e6&v=4)
+<a class="" data-hovercard-type="user" data-hovercard-url="/users/jadjoubran/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AranNomante">
+          <img class="d-block avatar-user" src="https://avatars1.githubusercontent.com/u/44326591" width="32" height="32" alt="@AranNomante">
+</a>
 <h3>Repo folder structure navigation</h3>
 
 <hr>
