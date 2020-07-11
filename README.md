@@ -3,25 +3,43 @@
           <img class="d-block avatar-user" src="https://avatars1.githubusercontent.com/u/44326591" width="128" height="128" alt="@AranNomante">
 		<br><sub><b>Altuğ Ceylan</b></sub>
 </a>
-<h3>Repo folder structure navigation</h3>
+<details>
+<summary><h3>Repo folder structure navigation</h3></summary>
 
 <hr>
 
 <ol>
-	<li><a href="./CV">CV</a></li>
+	<details>
+	<summary><li><a href="./CV">CV</a></li></summary>
 	<ol>
-		<li><a href="./CV/Docx">docx</a></li>
+		<details>
+		<summary><li><a href="./CV/Docx">docx</a></li></summary>
+		
 		<ol>
 			<li><a href="./CV/Docx/English">English</a></li>
 			<li><a href="./CV/Docx/Türkçe">Türkçe</a></li>
 		</ol>
-		<li><a href="./CV/Pdf">pdf</a></li>
+		</details>
+		
+		<details>
+		<summary><li><a href="./CV/Pdf">pdf</a></li></summary>
+		
 		<ol>
 			<li><a href="./CV/Pdf/English">English</a></li>
 			<li><a href="./CV/Pdf/Türkçe">Türkçe</a></li>
 		</ol>
+		</details>
+		
 	</ol>
-	<li class="list-group-item"><a href="./Ref">Ref</a></li>
+	</details>
+	
+	<details>
+	<summary>
+	<li class="list-group-item"><a href="./Ref">Ref</a></li></summary>
+	
+	</details>
+	
 </ol>
+</details>
 
 <hr>
