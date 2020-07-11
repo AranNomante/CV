@@ -5,15 +5,15 @@
 <ol>
 	<li><a href="./CV">CV</a></li>
 	<ol>
-		<li><a href="./CV/docx">docx</a></li>
+		<li><a href="./CV/Docx">docx</a></li>
 		<ol>
-			<li><a href="./CV/docx/English">English</a></li>
-			<li><a href="./CV/docx/Türkçe">Türkçe</a></li>
+			<li><a href="./CV/Docx/English">English</a></li>
+			<li><a href="./CV/Docx/Türkçe">Türkçe</a></li>
 		</ol>
-		<li><a href="./CV/pdf">pdf</a></li>
+		<li><a href="./CV/Pdf">pdf</a></li>
 		<ol>
-			<li><a href="./CV/pdf/English">English</a></li>
-			<li><a href="./CV/pdf/Türkçe">Türkçe</a></li>
+			<li><a href="./CV/Pdf/English">English</a></li>
+			<li><a href="./CV/Pdf/Türkçe">Türkçe</a></li>
 		</ol>
 	</ol>
 	<li><a href="./Ref">Ref</a></li>
