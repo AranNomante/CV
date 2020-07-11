@@ -1,10 +1,10 @@
 <table>
+<tr>
+<th><h1>CV repository of Altuğ CEYLAN AKA AranNomante</h1></th>
 <th>
-<td><h1>CV repository of Altuğ CEYLAN AKA AranNomante</h1></td>
-<td>
 <h3>Repo folder structure navigation</h3>
-</td>
 </th>
+</tr>
 <tr>
 <td>
 <a class="" data-hovercard-type="user" data-hovercard-url="/users/jadjoubran/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AranNomante">
